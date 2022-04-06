@@ -1,0 +1,1 @@
+SELECT Rank, Country, happiness_score, perceptions_of_corruption FROM Sql2022;
